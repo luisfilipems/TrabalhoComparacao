@@ -1,0 +1,1 @@
+Nesse trabalho irei comparar aplicações de Força Bruta e Busca Binária realizados em arquivos CSV, os quais contêm a folha de pagamento do Programa Bolsa Família do governo. Foram utilizados os registros do mês de Janeiro e Fevereiro do ano de 2017.
